@@ -37,7 +37,7 @@ const Records: React.FC<Props> = ({
       <div
         className={`w-full h-full    overflow-x-hidden   scrollbar border-b-2 border-l-2 border-r-2 rounded-r-xl rounded-l-xl bg-slate-100
          border-black shadow-2xl shadow-gray-800 `}
-        style={{ height: 672 }}
+        id="html"
       >
         <div className="border-b border-gray-500  bg-slate-300 rounded-t-xl pl-6 h-10 flex flex-row items-center ">
           <span className="mr-60 pl-10 text-xl font-semibold ">ID</span>

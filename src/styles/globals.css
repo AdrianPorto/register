@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+#html {
+
+}
+
 input[type="number"]::-webkit-inner-spin-button {
   -webkit-appearance: none;
 }

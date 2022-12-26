@@ -28,9 +28,9 @@ const Home: NextPage = () => {
   const [edit, setEdit] = useState(false);
 
   return (
-    <div className=" h-screen w-screen   bg-black   ">
+    <div className=" h-screen w-screen    bg-gray-700  0 " id="html">
       <div
-        className={`w-full h-full bg-gray-700 flex flex-1 justify-start items-center p-20 z-50   
+        className={`w-screen h-screen flex flex-1 justify-start items-center p-20 z-50   
         `}
       >
         {tableDelete && (
